@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <b><a href="https://balatero.com">My music / projects</a></b>
+  •
+  <b><a href="https://github.com/dbalatero/dotfiles">My dotfiles</a></b>
+</p>
 
-<!--
-**dbalatero/dbalatero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: he/him
+- 🛒 Currently work at [Stripe Checkout](https://checkout.stripe.com)
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Vim motions everywhere in macOS
+* [HyperKey.spoon](https://github.com/dbalatero/HyperKey.spoon) - Pretty hotkey menu for Hammerspoon
+* [dotfiles](https://github.com/dbalatero/dotfiles) - dotfiles for tmux, neovim, hammerspoon, zsh
+* [cypress-plugin-stripe-elements](https://github.com/dbalatero/cypress-plugin-stripe-elements) - plugin for testing Stripe Elements in Cypress
