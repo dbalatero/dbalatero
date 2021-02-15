@@ -4,8 +4,8 @@
   <b><a href="https://github.com/dbalatero/dotfiles">My dotfiles</a></b>
 </p>
 
-- 😄 Pronouns: he/him
-- 🛒 Currently work at [Stripe Checkout](https://checkout.stripe.com)
+- 😄 &nbsp;Pronouns: he/him
+- 🛒 &nbsp;Currently work at [Stripe Checkout](https://checkout.stripe.com)
 
 ## 🔭 I’m currently working on
 
