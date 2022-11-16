@@ -5,7 +5,7 @@
 </p>
 
 - 😄 &nbsp;Pronouns: he/him
-- 🛒 &nbsp;Currently work at [Stripe Checkout](https://checkout.stripe.com)
+- 🛒 &nbsp;Currently work at [Stainless](https://stainlessapi.com)
 
 ## 🔭 I’m currently working on
 
