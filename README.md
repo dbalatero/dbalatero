@@ -5,4 +5,4 @@
 </p>
 
 - 😄 &nbsp;Pronouns: he/him
-- 📝 &nbsp;Currently work at [Graphite](https://graphite.dev)
+- 📝 &nbsp;Currently work at [Stripe](https://checkout.stripe.com)
